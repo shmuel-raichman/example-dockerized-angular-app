@@ -1,6 +1,7 @@
 B"H
 # ExampleDockerizedAngularApp
 This is an example of a dockerized angular app served with nginx.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.9.
 
 ## Development server
